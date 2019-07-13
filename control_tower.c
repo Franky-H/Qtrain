@@ -12,7 +12,7 @@
 
 int main(int argc,char *argv[])
 {
-	int a;
+
 	int cnt;
 	int msgqkey;
 	int msgqid;
